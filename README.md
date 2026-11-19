@@ -26,3 +26,6 @@ Mã giới thiệu：推荐码 / 邀请码
 ĐĂNG KÝ：注册
 
 
+<img width="504" height="844" alt="image" src="https://github.com/user-attachments/assets/64ab5bef-a468-4841-9119-3ce29f7fc31c" />
+
+
