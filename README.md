@@ -47,6 +47,9 @@ Nhập mật khẩu rút tiền：输入提现密码（注：设置一个新的�
 
 Nhập lại mật khẩu rút tiền：再次输入提现密码（注：确认新密码
 
+
+
+
 <img width="556" height="496" alt="image" src="https://github.com/user-attachments/assets/5ae2d0da-d5c9-425c-bebe-952d06facb90" />
 
 【顶部标题】
@@ -89,6 +92,56 @@ Khách hàng không lưu và không chuyển lại bill cũ：客户请勿保存
 
 NẠP TIỀN：充值 / 立即充值
 
+<img width="528" height="572" alt="image" src="https://github.com/user-attachments/assets/8a44aaf4-b421-4a2e-9039-d76c36739508" />
+
+【顶部选项卡】
+
+Nạp Tiền：充值
+
+Rút Tiền：提现（当前选中）
+
+Nhập Code：输入兑换码
+
+【输入框（从上到下）】
+
+Chọn ngân hàng：选择银行（下拉菜单）
+
+Nhập tên tài khoản：输入账户名（户名）
+
+Nhập số tài khoản：输入账号（银行卡号）
+
+Nhập số tiền rút：输入提现金额
+
+Mật khẩu rút tiền：提现密码
+
+【提示与注意事项】
+
+Số tiền rút tối thiểu 300k tới đa 100,000k：提现金额最低 300k（30万），最高 100,000k（1亿）。
+
+• Tên người nhận: KHÔNG DẤU & CÓ KHOẢNG CÁCH ( vd: NGUYEN VAN ANH )：收款人姓名：请勿输入声调符号（无越语 accents）并且要有空格（例如：NGUYEN VAN ANH）。
+
+Lưu ý quan trọng:：重要提示：
+
+• Quý khách vui lòng nhập ĐÚNG thông tin tài khoản để đơn rút được xử lý nhanh hơn.：请客户准确输入账户信息，以便提现订单能够更快处理。
+
+【底部按钮】
+
+RÚT TIỀN：提现 / 立即提现
+
+
+<img width="1144" height="206" alt="image" src="https://github.com/user-attachments/assets/3f765243-a1bf-42ba-8151-35f40274b813" />
+
+Tài Xỉu Live：真人骰宝（注：Tài Xỉu 在越南语中通常指“大小/骰宝”游戏，Live 表示真人荷官）—— 带有“NEW/新”标签
+
+Đá gà：斗鸡
+
+Baccarat Live：真人百家乐
+
+Thể Thao：体育
+
+Casino：赌场
+
+Nổ Hũ：老虎机 / 电子游艺（注：Nổ Hũ 直译为“爆金/爆奖”，在越南语中通常指角子机、老虎机类的电子游戏）
 
 
 
